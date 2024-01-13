@@ -1,0 +1,15 @@
+site_name: Expoweb
+
+docs_dir: ./expoweb
+
+repo_name: Jaskinie Tatr
+
+markdown_extensions:  
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+
+dev_addr: 127.0.0.1:4562
+
+plugins:
+  - search
